@@ -1,9 +1,9 @@
 {
-	"self_token": "",
-	"user_id": "",
-	"bot_name": "WaffleBot",
+	"self_token": TOKEN,
+	"user_id": "424621186736062465",
+	"bot_name": "Light Life",
 	"owner_name": "",
-	"prefix": "self.",
+	"prefix": "*",
 	"msg_timeout": 3000,
 	"error_color": 12731971,
 	"success_color": 37765
