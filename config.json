@@ -1,5 +1,5 @@
 {
-	"self_token": TOKEN,
+	"self_token": process.env.TOKEN,
 	"user_id": "424621186736062465",
 	"bot_name": "Light Life",
 	"owner_name": "",
